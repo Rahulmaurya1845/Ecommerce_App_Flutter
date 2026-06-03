@@ -32,8 +32,6 @@ A modern Flutter e-commerce application with Firebase backend.
 
 ### Installation
 
-### APK 
-
 1. Clone the repository
    ```bash
    git clone https://github.com/Rahulmaurya1845/Ecommerce_App_Flutter.git
