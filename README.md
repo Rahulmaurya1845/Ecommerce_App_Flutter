@@ -1,17 +1,41 @@
-# firebaseloginsignup
+# LUXE - E-Commerce App
 
-A new Flutter project.
+A modern Flutter e-commerce application with Firebase backend.
+
+## Features
+
+- User Authentication (Login/Signup with Email & Google)
+- Product Catalog with Categories
+- Shopping Cart
+- Wishlist
+- Order Management
+- Admin Dashboard
+- Coupon System
+- Payment Integration
+- Push Notifications
+- Address Management
+
+## Screenshots
+
+(Add your app screenshots here)
+
+## Tech Stack
+
+- **Framework:** Flutter
+- **Backend:** Firebase (Authentication, Firestore, Storage)
+- **State Management:** Provider
+- **Payment:** (Your payment gateway)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK (latest stable version)
+- Android Studio / VS Code
+- Firebase account
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Rahulmaurya1845/Ecommerce_App_Flutter.git
