@@ -15,10 +15,6 @@ A modern Flutter e-commerce application with Firebase backend.
 - Push Notifications
 - Address Management
 
-## Screenshots
-
-(Add your app screenshots here)
-
 ## Tech Stack
 
 - **Framework:** Flutter
@@ -35,6 +31,8 @@ A modern Flutter e-commerce application with Firebase backend.
 - Firebase account
 
 ### Installation
+
+### APK 
 
 1. Clone the repository
    ```bash
